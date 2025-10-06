@@ -14,7 +14,8 @@
 - ☁️ **Scalable Cloud Architecture on AWS**  
   Designed a multi-AZ architecture using *EC2*, *RDS MySQL*, *Auto Scaling*, *Application Load Balancer*, *Secrets Manager*, and *CloudFormation* templates — following AWS Well-Architected best practices.
 
-  [![Credly Badge](https://img.shields.io/badge/Credly-View%20my%20badge-orange?logo=credly&logoColor=white)](https://www.credly.com/badges/30234c43-ec6a-4205-823f-8c58094a55ca/public_url)
+  [<img src="assets/credly-badge.png" alt="My Credly Badge" width="120">](https://www.credly.com/badges/30234c43-ec6a-4205-823f-8c58094a55ca/public_url)
+
 
 <!--
 - 🏎️ **F1 Race Performance Data Analysis**  
