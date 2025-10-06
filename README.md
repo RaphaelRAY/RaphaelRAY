@@ -14,14 +14,6 @@
 - ☁️ **Scalable Cloud Architecture on AWS**  
   Designed a multi-AZ architecture using *EC2*, *RDS MySQL*, *Auto Scaling*, *Application Load Balancer*, *Secrets Manager*, and *CloudFormation* templates — following AWS Well-Architected best practices.
 
-  [![GitHub Foundations – Credly](https://images.credly.com/size/340x340/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob)](https://www.credly.com/badges/30234c43-ec6a-4205-823f-8c58094a55ca/public_url)
-
-
-
-<!--
-- 🏎️ **F1 Race Performance Data Analysis**  
-  Exploratory data analysis project examining how weather conditions affect Formula 1 drivers’ performance using *OpenF1 API*, *OpenWeatherMap*, and advanced statistical modeling in *Python*.
--->
 ---
 
 ### 🧰 Tech Stack
@@ -40,21 +32,24 @@
 
 ---
 
+### 🏅 Badges & Certifications
+
+#### 🎓 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/30234c43-ec6a-4205-823f-8c58094a55ca/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob" alt="GitHub Foundations – Credly" width="120">
+  </a>
+</p>
+
+---
+
 ### 📈 Currently Learning
 
 - Real-time computer vision pipelines with *YOLOv11*  
 - Cloud scalability and automation with *AWS*  
 - Machine learning model optimization and deployment  
 - Intelligent event-driven systems with *Firebase* and *Cloud Functions*
-<!--
----
-
-### 💬 Get in Touch
-
-📫 **Email:** raphael.raymundo@outlook.com  
-💼 **LinkedIn:** [linkedin.com/in/raphaelraymundo](https://linkedin.com/in/raphaelraymundo)  
-🌐 **Portfolio:** [github.com/RaphaelRAY](https://github.com/RaphaelRAY)
 
 ---
--->
+
 > “Simplicity is the ultimate sophistication.” — *Leonardo da Vinci*
