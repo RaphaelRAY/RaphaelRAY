@@ -22,7 +22,7 @@
 `Python` • `JavaScript` • `TypeScript` • `Dart` • `Java` • `SQL` • `C/C++`
 
 #### ☁️ Cloud & DevOps
-`AWS (EC2, RDS, S3, CloudFormation)` • `Docker` • `Linux` • `GitHub Actions`
+`AWS` • `Docker` • `Linux` • `GitHub Actions`
 
 #### 🧠 AI & Data Science
 `YOLOv11` • `OpenCV` • `Scikit-learn` • `Pandas` • `NumPy` • `Statsmodels`
