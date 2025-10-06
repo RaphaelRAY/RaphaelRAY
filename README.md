@@ -28,7 +28,7 @@
 `YOLOv11` • `OpenCV` • `Scikit-learn` • `Pandas` • `NumPy` • `Statsmodels`
 
 #### 📱 Development
-`Flutter` • `FastAPI` • `React` • `Node.js` • `Firebase`
+`Flutter` • `FastAPI` • `React` • `Node.js` • `Firebase` • `React`
 
 ---
 
