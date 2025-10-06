@@ -13,10 +13,10 @@
 
 - ☁️ **Scalable Cloud Architecture on AWS**  
   Designed a multi-AZ architecture using *EC2*, *RDS MySQL*, *Auto Scaling*, *Application Load Balancer*, *Secrets Manager*, and *CloudFormation* templates — following AWS Well-Architected best practices.
-
+<!--
 - 🏎️ **F1 Race Performance Data Analysis**  
   Exploratory data analysis project examining how weather conditions affect Formula 1 drivers’ performance using *OpenF1 API*, *OpenWeatherMap*, and advanced statistical modeling in *Python*.
-
+-->
 ---
 
 ### 🧰 Tech Stack
